@@ -9,7 +9,7 @@ This project is a secure login and registration system developed using PHP and M
 
 ---
 
-## 🚀 Features
+## Features
 
 * User registration and login system
 * Role-based access (User / Admin)
@@ -26,7 +26,7 @@ This project is a secure login and registration system developed using PHP and M
 
 ---
 
-## 📄 Project Structure
+## Project Structure
 
 ```
 anomaly_detection_user_behavior/
@@ -51,7 +51,7 @@ anomaly_detection_user_behavior/
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** PHP
@@ -60,7 +60,7 @@ anomaly_detection_user_behavior/
 
 ---
 
-## 📁 Database Schema
+## Database Schema
 
 ### Database: `users_db`
 
@@ -89,7 +89,7 @@ anomaly_detection_user_behavior/
 
 ---
 
-## 📝 How to Set Up the Project
+## How to Set Up the Project
 
 ### Requirements
 
@@ -129,7 +129,7 @@ http://localhost/anomaly_detection_user_behavior/index.php
 
 ---
 
-## 🧬 Python Anomaly Detection Script
+## Python Anomaly Detection Script
 
 ### File: `anomaly_detection.py`
 
@@ -147,7 +147,7 @@ python anomaly_detection.py
 
 ---
 
-## 🚨 Potential Anomaly Indicators
+## Potential Anomaly Indicators
 
 * Sessions shorter than 3 seconds
 * Sessions longer than 4 hours
@@ -157,7 +157,7 @@ python anomaly_detection.py
 
 ---
 
-## 📊 Future Enhancements
+## Future Enhancements
 
 * Integrate anomaly results into `admin_page.php`
 * Add graphical display using Chart.js or Plotly
@@ -165,11 +165,31 @@ python anomaly_detection.py
 * Trigger email alerts to admin on detection
 
 ---
+## Screenshots
+### Session Duration Over Time
+![session duration over time](https://github.com/user-attachments/assets/96e693f5-7a6c-471b-bace-f24bdd912975)
 
+### login count per day 
+![login count per day](https://github.com/user-attachments/assets/9394ed80-4470-483f-b8d3-b185b22f34db)
 
+### Correlation Heatmap
+![correlation heatmap](https://github.com/user-attachments/assets/108b3ac1-6c7f-42de-ba2e-25ea6d45176e)
+
+### Anomalies In Session Duration Over Time
+![anomalies in session duration over time](https://github.com/user-attachments/assets/4e82ad5a-b7fb-4287-a6b6-3110e21b802a)
 
 ---
+## bash run cmd
 
-## 📈 Author
+![Screenshot 2025-06-22 200610](https://github.com/user-attachments/assets/80e01d50-9f0a-4c71-b84a-4a28a342c74d)
+
+---
+## Output
+![Screenshot 2025-06-22 200753](https://github.com/user-attachments/assets/762bdf62-b42b-4531-bfd2-ba884890c360)
+![Screenshot 2025-06-22 200809](https://github.com/user-attachments/assets/51fa24d8-da89-446d-9039-8f19cc090de2)
+![Screenshot 2025-06-22 200823](https://github.com/user-attachments/assets/e33a747f-f4d7-4fa6-8785-c32fa2e7f1dd)
+
+---
+## Author
 
 Developed by **ANKIT ANNA**
